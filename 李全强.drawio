@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-05T05:52:24.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="mnbHQ5pmy9UaFXg4qJWz" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T05:54:41.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="PuiYLwadnSVcHHKI3IR3" version="12.3.6" type="github" pages="1">
   <diagram id="hPLD487_rrXhkc1wJRE6" name="第 1 页">
     <mxGraphModel dx="2233" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="820" y="360" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="DdJCxJpUbqCv-p2f7Ykp-11" value="陈大辉" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="410.5" width="80" height="40" as="geometry"/>
+          <mxGeometry x="-40" y="407" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="DdJCxJpUbqCv-p2f7Ykp-12" value="潘秀良" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="410.5" width="80" height="40" as="geometry"/>
@@ -50,7 +50,7 @@
           <mxGeometry x="970" y="364.5" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="DdJCxJpUbqCv-p2f7Ykp-15" value="任会军" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="135" y="410" width="80" height="40" as="geometry"/>
+          <mxGeometry x="160" y="410" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="DdJCxJpUbqCv-p2f7Ykp-16" value="魏珍" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="450" width="80" height="40" as="geometry"/>
@@ -65,7 +65,7 @@
           <mxGeometry x="510" y="480" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="DdJCxJpUbqCv-p2f7Ykp-20" value="陈昕蒙" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="165" y="470" width="80" height="40" as="geometry"/>
+          <mxGeometry x="60" y="404" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="DdJCxJpUbqCv-p2f7Ykp-21" value="李海宁" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="460" width="80" height="40" as="geometry"/>
