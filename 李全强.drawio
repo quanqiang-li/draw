@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-05T04:31:35.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="3SO5rbhEi_44PkSM5yew" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T04:39:25.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="0U8Pjh4w4Y7N5ebeezgK" version="12.3.6" type="github" pages="1">
   <diagram id="hPLD487_rrXhkc1wJRE6" name="第 1 页">
     <mxGraphModel dx="1406" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,55 @@
           <mxGeometry x="180" y="250" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="DdJCxJpUbqCv-p2f7Ykp-1" value="谷亚伟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="200" width="80" height="40" as="geometry"/>
+          <mxGeometry x="310" y="220" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="DdJCxJpUbqCv-p2f7Ykp-2" value="谷瑀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="310" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="DdJCxJpUbqCv-p2f7Ykp-3" value="郭明睿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="380" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-4" value="王琦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="465" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-5" value="李文昌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="210" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-6" value="王迎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="290" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-9" value="肖乔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="370" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-10" value="陈昕蒙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="544" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-11" value="陈大辉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="623" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-12" value="潘秀良" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="710" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-13" value="鱼娟利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="460" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-14" value="张鑫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="544" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-15" value="任会军" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="680" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-16" value="魏珍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="750" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-17" value="张渊博" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="820" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-18" value="马帅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="890" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="DdJCxJpUbqCv-p2f7Ykp-19" value="张梦雯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="980" width="80" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
